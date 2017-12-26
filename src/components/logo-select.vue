@@ -24,9 +24,9 @@ export default {
             logoListFlag: false,
             mouseLeaveFlag:false,
             logoData: [{
-                imgSrc: require('../assets/360_logo.png')
+                imgSrc: require('../assets/baidu_logo.png')
             },{
-                imgSrc:require('../assets/baidu_logo.png')
+                imgSrc:require('../assets/360_logo.png')
             },{
                 imgSrc:require('../assets/sougou_logo.png')
             }]

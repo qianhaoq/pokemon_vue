@@ -4,8 +4,7 @@
 
 #### 效果
 
-![](http://p1.bqimg.com/567571/19f24b1743c6bf90.png)
-
+![Alt text](https://github.com/qianhaoq/pokemon_vue/raw/master/snapshot.png)
 #### 所用知识
 - 单文件组件
 - vue-resource(ajax库)

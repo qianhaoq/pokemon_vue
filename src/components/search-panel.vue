@@ -42,14 +42,18 @@ export default {
             now: -1,
             searchIndex: 0,
             logoData: [{
-                name: '360搜索',
-                searchSrc: 'https://www.so.com/s?ie=utf-8&shb=1&src=360sou_newhome&q='
-            }, {
                 name: '百度搜索',
-                searchSrc: 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd='
+                searchSrc: 'https://image.baidu.com/search/index?tn=baiduimage&wd='
+
+                // searchSrc: 'https://www.so.com/s?ie=utf-8&shb=1&src=360sou_newhome&q='
+            }, {
+                 name: '360搜索',
+                searchSrc: 'http://image.so.com/i?q='
+                // searchSrc: 'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd='
             }, {
                 name: '搜狗搜索',
-                searchSrc: 'https://www.sogou.com/web?query='
+                searchSrc: 'http://pic.sogou.com/pics?query='
+                // searchSrc: 'https://www.sogou.com/web?query='
             }]
         }
     },
