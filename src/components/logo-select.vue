@@ -29,6 +29,8 @@ export default {
                 imgSrc:require('../assets/360_logo.png')
             },{
                 imgSrc:require('../assets/sougou_logo.png')
+            },{
+                imgSrc:require('../assets/pokemon_logo.jpg')            
             }]
         }
     },

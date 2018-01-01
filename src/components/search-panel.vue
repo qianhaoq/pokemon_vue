@@ -54,6 +54,9 @@ export default {
                 name: '搜狗搜索',
                 searchSrc: 'http://pic.sogou.com/pics?query='
                 // searchSrc: 'https://www.sogou.com/web?query='
+            }, {
+                name: '宝可梦搜索',
+                searchSrc: 'https://www.baidu.com/s?ie=UTF-8&wd='
             }]
         }
     },
