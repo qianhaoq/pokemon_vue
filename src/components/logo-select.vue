@@ -30,7 +30,7 @@ export default {
             },{
                 imgSrc:require('../assets/sougou_logo.png')
             },{
-                imgSrc:require('../assets/pokemon_logo.jpg')            
+                imgSrc:require('../assets/pokemon2.png')
             }]
         }
     },
